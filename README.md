@@ -1,2 +1,2 @@
 # Arduino-
-Arduino related projects and fun ....!
+Arduino related fun cool projects! 
